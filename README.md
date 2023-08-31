@@ -11,7 +11,7 @@
 </picture>
  <br>
 
-<p align="left" width="180em">
+<p align="left" width="180px">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=garbizada&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Best used languages" /> 
 </p>
  
