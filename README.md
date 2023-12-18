@@ -3,12 +3,12 @@ Today i'm a trainee at Metareports Telemedicina, very interested on the TI area,
 
 I'v experience with the following technologies: <br>
 -Java; <br>
--MySQL and SQL;
--Git;
--Rest API's;
--Python;
--HTML, CSS, Bootstrap, Javascript and angular;
--Agile development;
+-MySQL and SQL; <br>
+-Git; <br>
+-Rest API's; <br>
+-Python; <br>
+-HTML, CSS, Bootstrap, Javascript and angular; <br>
+-Agile development; 
 
 
 
