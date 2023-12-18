@@ -1,8 +1,8 @@
 ### Olá! Eu sou o Cauê Justen Garbi 👋
 Today i'm a trainee at Metareports Telemedicina, very interested on the TI area, but more focused on developing and solving problems.
 
-I'v experience with the following technologies: 
--Java;
+I'v experience with the following technologies: <br>
+-Java; <br>
 -MySQL and SQL;
 -Git;
 -Rest API's;
