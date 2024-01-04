@@ -1,5 +1,5 @@
 ### Olá! Eu sou o Cauê Justen Garbi 👋
-Today i'm a trainee at Metareports Telemedicina, very interested on the TI area, but more focused on developing and solving problems.
+Today i'm a trainee at Metareports Telemedicina, very intriged by today technologies, focused on learning developing and solving problems skills.
 
 I'v experience with the following technologies: <br>
 -Java; <br>
