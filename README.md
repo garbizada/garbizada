@@ -20,10 +20,4 @@ I'v experience with the following technologies: <br>
 
 [![GitHub Streak](https://streak-stats.demolab.com/garbizada=DenverCoder1)](https://git.io/streak-stats)
 
-<br>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=garbizada&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
-    <td style="border:none;"><a target="_blank" href="https://github.com/DenverCoder1/github-readme-streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=garbizada&theme=react&dates=8b8b8b&background=0000&hide_border=true" alt="My Streak"/></a></td>
-   </tr>
-</p>
