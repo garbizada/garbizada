@@ -8,7 +8,8 @@ I'v experience with the following technologies: <br>
 -Rest API's; <br>
 -Python; <br>
 -HTML, CSS, Bootstrap, Javascript and angular; <br>
--Agile development; 
+-Agile development; <br>
+-AWS Cloud;
 
 
 
@@ -17,7 +18,7 @@ I'v experience with the following technologies: <br>
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caue-justen-garbi/)
 [![Linkedin](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:caue.justen@hotmail.com) 
 
-![Cauê's GitHub stats](https://github-readme-stats.vercel.app/api?username=garbizada&show_icons=true&theme=tokyonight)
+[![GitHub Streak](https://streak-stats.demolab.com/garbizada=DenverCoder1)](https://git.io/streak-stats)
 
 <br>
 
