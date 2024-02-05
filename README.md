@@ -7,7 +7,7 @@ Full-Stack intern at Metareports Telemedicina, focused on learning developing an
 
 <br>
 
-<h2 font-size= 20px>This are some of the languages and technologies i'm learning and have some knowledge!</h1>
+<h2 font-size= 20px>This are some of the languages and technologies i'm learning and have some experience!</h1>
 
 Backend: 
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
